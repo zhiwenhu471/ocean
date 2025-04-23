@@ -88,7 +88,7 @@ www.baidu.com
 
 <u>下划线</u>
 
-分数：$ f(x, y) = \frac{x^2} {y^3} $
+分数：$f(x, y) = \frac{x^2}{y^3}$
 
 - 上下标
 
